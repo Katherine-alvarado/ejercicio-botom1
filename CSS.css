@@ -1,0 +1,52 @@
+/*Estilos Generales*/
+.button {
+	background:#7be740;
+	color:#fff;
+	display:inline-block;
+	font-size:1.25em;
+	margin:20px;
+	padding:10px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #373c3c;
+}
+ 
+
+ 
+/*Colores*/
+.button.blue {
+	background-color:#29b8e5;
+	box-shadow:0px 3px 0px #266792;
+}
+ 
+.button.yellow {
+	background:#e67e22;
+	box-shadow:0px 3px 0px #e73827;
+}
+ 
+.button.green {
+	background:#91e842;
+	box-shadow:0px 3px 0px #627d4d;
+}
+
+.button.red {
+	background: #DA1010 ;
+	box-shadow:0px 3px 0px #ff920a;
+}
+  
+ 
+.button.medium {
+	width:420px;
+}
+ 
+ 
+.button.radius {
+	border-radius:50px;
+}
+ 
+
+img{
+	width: 25px;
+	height: 25px;
+}
